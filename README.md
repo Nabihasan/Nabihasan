@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Advance JAVA-JDBC,SERVLET,JSP**
 
-- 📫 How to reach me **nabihasan7976@gmail.com**
+- 📫 How to reach me **hasaniips42@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
